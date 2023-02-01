@@ -20,6 +20,4 @@ WiFi.status() values can be:
 2) WL_IDLE_STATUS
 
 3) WL_CONNECT_FAILED		
-_______________________________________________________________________________
-	
-To know more about this you can watch this video: https://youtu.be/uwjWyMFwvQw
+
